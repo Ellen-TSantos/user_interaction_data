@@ -10,3 +10,5 @@
 <h2>Used these topics data extraction, user interaction with online advertisements.
 <h2>Results list of customer data from online advertising.
 <br><br>
+
+![Captura de tela 2023-04-25 035029](https://user-images.githubusercontent.com/122386488/234198871-520c296a-380a-472a-8ae5-4355ffefaf3e.png)
