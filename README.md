@@ -29,5 +29,6 @@
 <h2>Results with the city of users who spent more than 70 seconds on the site.
 <br><br>
 
+![70segundos](https://user-images.githubusercontent.com/122386488/234200775-ab439c3f-013e-4709-b130-119691e39d0c.png)
 
 
