@@ -16,3 +16,6 @@
 
 <h2>Results list of countries having the parents of users over 30 years old.
 <br><br>
+
+![paises](https://user-images.githubusercontent.com/122386488/234199694-92a8c7af-7d3f-4365-b931-bffa2b005163.png)
+
