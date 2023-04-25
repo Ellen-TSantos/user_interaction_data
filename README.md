@@ -21,4 +21,13 @@
 <br><br>
 
 <h2>Result with the total income of users who clicked on the ad.
+<br><br>
+
+![renda](https://user-images.githubusercontent.com/122386488/234200260-bd6a7550-04ef-41ef-b4b0-268832c06390.png)
+<br><br>
+
+<h2>Results with the city of users who spent more than 70 seconds on the site.
+<br><br>
+
+
 
