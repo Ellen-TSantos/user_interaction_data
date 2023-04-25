@@ -2,6 +2,9 @@
 
 <h2>Welcome to my repository.
 <h2>This Python project used Conditional Flow & Repetition.
+<br>
+
+<img align="center" alto="Ellen-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 
 <h2>Topics.
 <h2>1- if / else / elif conditional structure.
